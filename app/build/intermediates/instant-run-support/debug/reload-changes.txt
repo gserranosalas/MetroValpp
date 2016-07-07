@@ -1,0 +1,13 @@
+CHANGED,/home/gserranosalas/AndroidStudioProjects/MetroValpp/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/gcss/metrovalpp/R$id$override.class
+CHANGED,/home/gserranosalas/AndroidStudioProjects/MetroValpp/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/gcss/metrovalpp/R$menu$override.class
+CHANGED,/home/gserranosalas/AndroidStudioProjects/MetroValpp/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/gcss/metrovalpp/R$styleable$override.class
+CHANGED,/home/gserranosalas/AndroidStudioProjects/MetroValpp/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/gcss/metrovalpp/R$override.class
+CHANGED,/home/gserranosalas/AndroidStudioProjects/MetroValpp/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/android/support/v7/appcompat/R$drawable$override.class
+CHANGED,/home/gserranosalas/AndroidStudioProjects/MetroValpp/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/gcss/metrovalpp/R$mipmap$override.class
+CHANGED,/home/gserranosalas/AndroidStudioProjects/MetroValpp/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/gcss/metrovalpp/R$style$override.class
+CHANGED,/home/gserranosalas/AndroidStudioProjects/MetroValpp/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/gcss/metrovalpp/R$string$override.class
+CHANGED,/home/gserranosalas/AndroidStudioProjects/MetroValpp/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/home/gserranosalas/AndroidStudioProjects/MetroValpp/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/gcss/metrovalpp/R$integer$override.class
+CHANGED,/home/gserranosalas/AndroidStudioProjects/MetroValpp/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/gcss/metrovalpp/R$layout$override.class
+CHANGED,/home/gserranosalas/AndroidStudioProjects/MetroValpp/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/android/support/design/R$drawable$override.class
+CHANGED,/home/gserranosalas/AndroidStudioProjects/MetroValpp/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/gcss/metrovalpp/R$drawable$override.class
